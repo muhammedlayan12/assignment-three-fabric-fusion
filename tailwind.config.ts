@@ -12,6 +12,14 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        poppins: ['Poppins', 'sans-serif'],
+        nunito: ['Nunito', 'sans-serif'],
+        forum: ['Forum', 'sans-serif'],
+      },
+      boxShadow:{
+        normalShadow:"0px 0px 10px black",
+      },
     },
   },
   plugins: [],

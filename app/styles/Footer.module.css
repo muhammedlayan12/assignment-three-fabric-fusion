@@ -1,0 +1,11 @@
+.footer {
+    text-align: start;
+  }
+  
+  @media (max-width: 900px) {
+    .footer {
+      text-align: center;
+      gap: 8vmin;
+    }
+  }
+  
